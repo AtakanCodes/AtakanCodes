@@ -9,7 +9,7 @@
 
 - 👨‍💻 My portfolio [https://seanpars.netlify.app/](https://seanpars.netlify.app/)
 
-- 💬 Ask me about **project ideas**
+- 💬 Ask me about **your project ideas**
 
 - ⚡ Fun fact **I love gaming**
 
