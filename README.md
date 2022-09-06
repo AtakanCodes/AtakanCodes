@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **project ideas**
 
-- 📫 How to reach me **https://www.linkedin.com/in/seanparsdev/**
-
 - ⚡ Fun fact **I love gaming**
 
 <h3 align="left">Connect with me:</h3>
