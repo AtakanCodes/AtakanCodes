@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm Sean Pars</h1>
 <h3 align="center">A self-motivated, proactive, and resilient Full-Stack Software Engineer.</h3>
 
-- 🔭 I’m currently working on **CRUD App**
+- 🔭 I’m currently working on **a CRUD App**
 
 - 🌱 I’m currently improving my knowledge on **Express.js Node.js MongoDB**
 
