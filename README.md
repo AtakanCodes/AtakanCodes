@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **building a gaming community website that will have it's own merch store**
 
-- 🌱 I’m currently improving my knowledge on **Express Node MongoDB**
+- 🌱 I’m currently improving my knowledge on **Express, Node and MongoDB**
 
 - 👯 I’m looking to collaborate on **Open Source Projects & Volunteer Projects**
 
