@@ -1,17 +1,15 @@
 <h1 align="center">Hello! I'm Sean Pars</h1>
 <h3 align="center">A self-motivated, proactive, and resilient Full-Stack Software Engineer.</h3>
 
-- 🔭 I’m currently working on **building a gaming community website that will have its own merch store!**
+- 👨🏻‍💻 I’m currently working on **building a gaming community website that will have its own merch store!**
 
 - 🌱 I’m currently improving my knowledge on **Express, Node and MongoDB**
 
-- 👯 I’m looking to collaborate on **Open Source Projects & Volunteer Projects**
+- 🕵️ I’m looking for **fully remote and relocation-supported opportunities**
 
-- 👨‍💻 My portfolio [https://seanpars.netlify.app/](https://seanpars.netlify.app/)
+- 🧙🏻‍♂️ My portfolio [https://seanpars.netlify.app/](https://seanpars.netlify.app/)
 
-- 💬 Ask me about **your project ideas**
-
-- ⚡ Fun fact **I love gaming**
+- ♘ Fun fact **I love simulation games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
