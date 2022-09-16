@@ -11,7 +11,7 @@
 
 - ♘ Fun fact **I love simulation games**
 
-https://www.codewars.com/users/SeanParsDEV/badges/large
+[https://www.codewars.com/users/SeanParsDEV/badges/large]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
