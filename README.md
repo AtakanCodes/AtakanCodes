@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently improving my knowledge on **Express, Node and MongoDB**
 
-- 🕵️ I’m looking to **participate volunteer projects**
+- 🕵️ I’m looking to **participate to volunteer projects**
 
 - 🧙🏻‍♂️ My portfolio [https://seanpars.netlify.app/](https://seanpars.netlify.app/)
 
