@@ -1,9 +1,7 @@
 <h1 align="center">Hello! I'm Sean Pars</h1>
 <h3 align="center">A self-motivated, proactive, and resilient Full-Stack Software Engineer.</h3>
 
-- 👨🏻‍💻 I’m currently working on **improving my backend knowledge**
-
-- 🌱 I’m currently improving my knowledge on **Express, Node and MongoDB**
+- 🌱 I’m currently improving my knowledge on ** MVC **
 
 - 🕵️ I’m looking to **participate to volunteer and open-source projects**
 
