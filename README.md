@@ -1,9 +1,9 @@
 <h1 align="center">Hello! I'm Sean Pars</h1>
-<h3 align="center">A self-motivated, proactive, and resilient Full-Stack Software Engineer.</h3>
+<h3 align="center">A self-motivated and resilient Full-Stack Software Engineer.</h3>
 
 - 🌱 I’m currently improving my knowledge on **MVC**
 
-- 🕵️ I’m looking to **participate to volunteer and open-source projects**
+- 🕵️ I’m looking to **volunteer to open-source projects for experience**
 
 - 🧙🏻‍♂️ My portfolio [https://seanpars.netlify.app/](https://seanpars.netlify.app/)
 
