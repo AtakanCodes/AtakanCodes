@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently improving my knowledge on **MVC**
 
-- 🕵️ I’m looking to **volunteer to open-source projects for experience**
+- 🕵️ I’m looking for new **opportunities**
 
 - 🧙🏻‍♂️ My portfolio [https://seanpars.netlify.app/](https://seanpars.netlify.app/)
 
