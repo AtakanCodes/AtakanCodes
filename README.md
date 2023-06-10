@@ -5,7 +5,7 @@
 
 - 🕵️ I’m looking for new **opportunities**
 
-- 🧙🏻‍♂️ My portfolio [https://apdevx.netlify.app/](https://apdevx.netlify.app/)
+- 🧙🏻‍♂️ My portfolio [link](https://apdevx.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
