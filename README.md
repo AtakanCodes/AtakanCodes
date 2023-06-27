@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Atakan</h1>
-<h3 align="center">A community-taught, highly motivated, and resilient Full-Stack Web Developer.</h3>
+<h3 align="center">A community-taught Full-Stack Web Developer.</h3>
 
 - 🌱 I’m currently building a full-stack ecommerce web app using MERN stack
 
