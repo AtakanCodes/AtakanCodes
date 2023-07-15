@@ -7,7 +7,7 @@
 
 - 🕵️ I’m looking for new **opportunities**, they could be frontend, backend and full-stack!
 
--  <p> 🧙🏻‍♂️ My portfolio<a href="https://apdevx.netlify.app/" target="_blank" rel="noopener noreferrer"> link</a>.</p>
+- 🧙🏻‍♂️ My portfolio [Link](https://apdevx.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
