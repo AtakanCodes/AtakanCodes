@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm Atakan</h1>
+<h1 align="center">Hi! I'm Atakan</h1>
 <h3 align="center">A self-taught Full-Stack Web Developer</h3>
 
 - 🧱 I’m currently building multiple full-stack projects that will better represent my knowledge of backend technologies, I will make them public on my GitHub profile, soon™ :)
