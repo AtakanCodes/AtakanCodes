@@ -1,13 +1,7 @@
 <h1 align="center">Hi! I'm Atakan</h1>
-<h3 align="center">A self-taught Full-Stack Web Developer</h3>
+<h3 align="center">A future self-taught Full-Stack Web Developer!</h3>
 
-- 🧱 I’m currently building multiple full-stack projects that will better represent my knowledge of backend technologies, I will make them public on my GitHub profile, soon™ :)
-
-- 📣 I currently use MERN stack however **I'm open to learning any language and framework** for a promising position!
-
-- 🕵️ I’m looking for new **opportunities**, they could be frontend, backend and full-stack!
-
-- 🧙🏻‍♂️ My portfolio [link](https://apdevx.netlify.app/)
+- I'm currently studying full-stack web development at The Odin Project.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
