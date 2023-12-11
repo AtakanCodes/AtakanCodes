@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Atakan</h1>
-<h3 align="center">A community-taught Full-Stack Software Engineer.</h3>
+<h3 align="center">A self-taught Full-Stack Software Developer</h3>
 
 - 🧱 I’m currently building multiple full-stack projects that will better represent my knowledge of backend technologies, I will make them public on my GitHub profile, soon™ :)
 
